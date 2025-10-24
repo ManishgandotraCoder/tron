@@ -1,0 +1,10 @@
+# Dependencies
+server/node_modules/
+client/node_modules/
+.DS_Store
+server/dist/
+client/build/
+client/.env
+server/.env
+fashion_llm/.venv
+server/uploads/user

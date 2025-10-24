@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision
+torchaudio
+diffusers==0.30.0
+transformers==4.44.2
+accelerate==0.34.2
+safetensors==0.4.5
+fastapi==0.112.2
+uvicorn[standard]==0.30.6
+pillow==10.4.0
+controlnet-aux==0.4.0
+xformers>=0.0.20
